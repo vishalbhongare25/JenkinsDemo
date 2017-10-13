@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18018" started-at="2017-10-13T09:33:11Z" finished-at="2017-10-13T09:33:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18018" started-at="2017-10-13T09:33:11Z" finished-at="2017-10-13T09:33:29Z">
+      <class name="demopackage.TestScript">
+        <test-method status="PASS" signature="LaunchChromeBrowser()[pri:1, instance:demopackage.TestScript@29ee9faa]" name="LaunchChromeBrowser" duration-ms="2004" started-at="2017-10-13T15:03:11Z" finished-at="2017-10-13T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchChromeBrowser -->
+        <test-method status="PASS" signature="OpenLinkServify360DashbordUrl()[pri:2, instance:demopackage.TestScript@29ee9faa]" name="OpenLinkServify360DashbordUrl" duration-ms="2876" started-at="2017-10-13T15:03:13Z" finished-at="2017-10-13T15:03:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenLinkServify360DashbordUrl -->
+        <test-method status="PASS" signature="UserLoginServify360Dashbord()[pri:3, instance:demopackage.TestScript@29ee9faa]" name="UserLoginServify360Dashbord" duration-ms="13090" started-at="2017-10-13T15:03:16Z" finished-at="2017-10-13T15:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLoginServify360Dashbord -->
+      </class> <!-- demopackage.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
